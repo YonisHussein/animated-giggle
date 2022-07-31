@@ -4,7 +4,7 @@
 
 To build a E-Commerce Back End, get familiar with ORM and MySQL.
 
-![Video Link](https://drive.google.com/file/d/1ELrohdDvZJ8Ua91qWaNUE1AkNW4qzkAi/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/1ELrohdDvZJ8Ua91qWaNUE1AkNW4qzkAi/view?usp=sharing)
 
 ## Your Task
 
